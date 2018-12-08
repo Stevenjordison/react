@@ -1,0 +1,16 @@
+{
+  "name": "antd-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "joey",
+  "license": "MIT",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "devDependencies": {
+    "react": "^16.6.3",
+    "umi": "^2.2.8",
+    "umi-plugin-react": "^1.2.3"
+  }
+}
