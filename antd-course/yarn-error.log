@@ -1,19 +1,19 @@
-Arguments: 
+Arguments:
   /usr/local/bin/node /usr/local/bin/yarn add umi-plugin-react [--dev]
 
-PATH: 
+PATH:
   /Users/joey/.rvm/gems/ruby-2.4.0/bin:/Users/joey/.rvm/gems/ruby-2.4.0@global/bin:/Users/joey/.rvm/rubies/ruby-2.4.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/joey/.rvm/bin://Users/joey/Documents/apache-tomcat-7.0.77/bin
 
-Yarn version: 
+Yarn version:
   1.7.0
 
-Node version: 
+Node version:
   6.10.0
 
-Platform: 
+Platform:
   darwin x64
 
-Trace: 
+Trace:
   Error: https://registry.npm.taobao.org/[--dev]: Not found
       at Request.params.callback [as _callback] (/usr/local/lib/node_modules/yarn/lib/cli.js:65656:18)
       at Request.self.callback (/usr/local/lib/node_modules/yarn/lib/cli.js:134675:22)
@@ -27,12 +27,11 @@ Trace:
       at emitNone (events.js:91:20)
       at IncomingMessage.emit (events.js:185:7)
 
-npm manifest: 
+npm manifest:
   {
     "name": "antd-course",
     "version": "1.0.0",
-    "main": "index.js",
-    "author": "joey",
+    "main": "index.js "author": "joey",
     "license": "MIT",
     "scripts": {
       "dev": "umi dev",
@@ -43,8 +42,8 @@ npm manifest:
     }
   }
 
-yarn manifest: 
+yarn manifest:
   No manifest
 
-Lockfile: 
+Lockfile:
   No lockfile
